@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.twdrunner4.twa",
+      "sha256_cert_fingerprints": ["B9:C2:56:4B:FF:DD:06:21:33:45:C9:24:CF:1C:AD:4A:5E:67:65:13:F2:F2:74:95:9C:9A:94:F8:25:DD:05:41"]
+    }
+  }
+]
